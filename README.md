@@ -1,6 +1,8 @@
 
 # PayHere Payment Integration Demo
 
+## [Article on How to implement this A-Z: Medium](https://medium.com/@madhurajayashanka/how-to-integrate-payhere-payment-gateway-in-react-js-and-node-js-d4ba06443821)
+
 ![Thumbnail](https://github.com/madhurajayashanka/payhere-reactjs-expressjs/blob/f674a5062b892c566a245cbe03c008fcbef98e9d/thumbnail.png)
 
 
